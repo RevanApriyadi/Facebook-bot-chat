@@ -4,8 +4,8 @@ exports.trigger = "#";
 // Bot owner information
 exports.owner = {
     "names": {
-        "short": "Cameron",
-        "long": "Cameron Bernhardt"
+        "short": "Revan",
+        "long": "Revan Apriyadi"
     },
     "id": "100007016509302" // ID of bot owner (for secure commands, reports, and alerts)
 };
@@ -13,8 +13,8 @@ exports.owner = {
 // Bot information
 exports.bot = {
     "names": {
-        "short": "AØBøt", // Will be used as 'nickname' in chat (remove if same as account name)
-        "long": "AssumeZero Bot" // Name displayed in profile on bot's Facebook account
+        "short": "Grace", // Will be used as 'nickname' in chat (remove if same as account name)
+        "long": "Grace Bot" // Name displayed in profile on bot's Facebook account
     },
     "id": "100041587845629" // Bot's ID (for security purposes in commands)
 };
